@@ -1,0 +1,12 @@
+# Session state files (may contain sensitive window titles/URLs)
+*.state
+*.state.json
+state/
+
+# Editor
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
