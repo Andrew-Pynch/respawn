@@ -18,7 +18,7 @@ Session restore for [Hyprland](https://hyprland.org/). Saves and restores your d
 ## Install
 
 ```bash
-cp bin/respawn ~/.local/bin/respawn
+cp respawn.sh ~/.local/bin/respawn
 chmod +x ~/.local/bin/respawn
 ```
 
